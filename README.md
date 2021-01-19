@@ -1,2 +1,2 @@
-# Covid19---Ourense
+# Covid19-Ourense
 Repositorio de datos de Covid19 na provincia de Ourense
